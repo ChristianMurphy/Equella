@@ -53,7 +53,7 @@
     "sprintf-js": "^1.1.1",
     "timeago-react": "^2.0.0",
     "typescript-fsa": "^2.5.0",
-    "typescript-fsa-reducers": "^0.4.5",
+    "typescript-fsa-reducers": "^1.0.0",
     "uuid": "^3.2.1"
   },
   "license": "Apache-2.0",
